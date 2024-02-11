@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PizaaElsultan1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/PizaaElsultan.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
